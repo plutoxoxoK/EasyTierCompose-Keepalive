@@ -22,6 +22,6 @@
 
 上游资料见 [保留的 README](README.upstream.md)，精确来源见 [UPSTREAM.md](UPSTREAM.md)，修改见 [CHANGELOG.md](CHANGELOG.md)，许可证及依赖归属见 [NOTICE.md](NOTICE.md)。`docs/BUILD-RESULTS.md` 记录本候选的实际检查结果。GitHub 工作流仅手动检查并上传工作流产物，没有发布、推送代码或发送消息步骤。
 
-2026-11-07 本地交付检查已完成：[候选交付清单](docs/CANDIDATE-DELIVERY.md)。APK/源码 ZIP、精确提交、签名和文件摘要在独立 dist 目录中提供；固定原生源码排除两个上游 GUI 签名文件并明确记录。设备反馈与本地模型检查分别记录，公开发布尚未执行。
+2026-11-07 本地交付检查已完成：[候选交付清单](docs/CANDIDATE-DELIVERY.md)。APK/源码 ZIP、精确提交、签名和文件摘要在独立 dist 目录中提供；固定原生源码排除两个上游 GUI 签名文件并明确记录。设备反馈与本地模型检查分别记录。
 
-公开仓库预案：[plutoxoxoK/EasyTierCompose-Keepalive 的发布准备](docs/GITHUB-PUBLISH.md)。尚未执行建仓/推送/Release；首次拟作为调试签名实验性预发布。原生依赖声明、notice 来源与缺项说明见 [原生归属采集](docs/NATIVE-LICENSE-REVIEW.md)。
+2026-11-07 已公开发布：[下载 v1.0.10-keepalive.1 实验性预发布](https://github.com/plutoxoxoK/EasyTierCompose-Keepalive/releases/tag/v1.0.10-keepalive.1)。六个附件已下载回读核对 SHA-256；APK 使用调试签名。发布前的准备记录见 [发布预案](docs/GITHUB-PUBLISH.md)。原生依赖声明、notice 来源与缺项说明见 [原生归属采集](docs/NATIVE-LICENSE-REVIEW.md)。
