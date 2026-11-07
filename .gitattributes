@@ -1,0 +1,3 @@
+# Preserve the byte hashes recorded in the native notice inventory on Windows.
+licenses/native/** -text
+licenses/native-standard/** -text

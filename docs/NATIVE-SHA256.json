@@ -1,0 +1,20 @@
+[
+  {
+    "path": "app/src/main/jniLibs/arm64-v8a/libeasytier_android_jni.so",
+    "bytes": 17340944,
+    "sha256": "fc0aed1d095d53434cb77e6ea239ccee9928c1c0eb37917b2d56f6e8d5404dcf",
+    "identicalToV1_0_10": true
+  },
+  {
+    "path": "app/src/main/jniLibs/armeabi-v7a/libeasytier_android_jni.so",
+    "bytes": 12535900,
+    "sha256": "5dfd7252f12a98ec946e569441944f0037a1822f00263bba8d75e1ca21bbac58",
+    "identicalToV1_0_10": true
+  },
+  {
+    "path": "app/src/main/jniLibs/x86_64/libeasytier_android_jni.so",
+    "bytes": 19709936,
+    "sha256": "ec84d5d69529274d6b6a59ec226341278aed2cd24b8843cae0f6a256e0255c5f",
+    "identicalToV1_0_10": true
+  }
+]

@@ -1,0 +1,13 @@
+<resources>
+    <string name="no_tun_channel">No-TUN connection</string>
+    <string name="no_tun_title">EasyTier Keepalive Candidate</string>
+    <string name="no_tun_starting">Starting no-TUN core…</string>
+    <string name="no_tun_running">No-TUN core running · network reachability unverified</string>
+    <string name="no_tun_stop">Stop</string>
+    <string name="no_tun_retry_stop">Retry stop</string>
+    <string name="no_tun_special_use" translatable="false">User-started continuous EasyTier overlay transport with a loopback SOCKS proxy, without using Android VPN. Must remain available while other apps use the existing VPN. Stops with the connection.</string>
+    <string name="no_tun_only">This candidate supports No TUN only. Select or import a No TUN profile.</string>
+    <string name="no_tun_service_failed">No-TUN startup failed. Enable app notifications and the No-TUN notification channel, then retry. Also check the profile and whether another instance owns the SOCKS port.</string>
+    <string name="no_tun_service_lost">The foreground service stopped. The core has been released; reconnect explicitly.</string>
+    <string name="no_tun_stop_failed">Core stop could not be confirmed. Check the candidate process before starting another instance.</string>
+</resources>

@@ -1,0 +1,18 @@
+# Fictional documentation-only profile. Replace values privately; do not use in production.
+hostname = "example-android"
+ipv4 = "192.0.2.3/24"
+dhcp = false
+listeners = []
+socks5_proxy = "socks5://127.0.0.1:17892"
+
+[network_identity]
+network_name = "example-network"
+network_secret = "REPLACE_WITH_YOUR_OWN_SECRET"
+
+[[peer]]
+uri = "tcp://gateway.example.invalid:11010"
+
+[flags]
+no_tun = true
+enable_ipv6 = false
+accept_dns = false

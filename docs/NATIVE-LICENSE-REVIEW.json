@@ -1,0 +1,237 @@
+{
+  "nativeCommit": "81487c363a56779e745eae927e130a813535c71e",
+  "scope": "Conservative Cargo.lock dependency closure from easytier-android-jni; all locked targets/features, not exact APK SBOM",
+  "standardLicenseTexts": [
+    {
+      "license": "MIT",
+      "path": "licenses/native-standard/MIT.txt",
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt",
+      "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+      "scope": "Canonical license text; placeholders are not invented package copyright attribution"
+    },
+    {
+      "license": "CC0-1.0",
+      "path": "licenses/native-standard/CC0-1.0.txt",
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "scope": "Canonical license text; placeholders are not invented package copyright attribution"
+    },
+    {
+      "license": "WTFPL",
+      "path": "licenses/native-standard/WTFPL.txt",
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/WTFPL.txt",
+      "sha256": "13d8825a59e5e546d41e8711405d0f335a9934362a47c04a3b4280fa7932dc4a",
+      "scope": "Canonical license text; placeholders are not invented package copyright attribution"
+    }
+  ],
+  "dispositions": [
+    {
+      "name": "easytier-android-jni",
+      "version": "0.1.0",
+      "declaredLicense": null,
+      "declaredLicenseFile": null,
+      "disposition": "repository-license-observed; package manifest has no license declaration",
+      "evidence": {
+        "path": "EasyTier-Core/LICENSE",
+        "sha256": "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059",
+        "observedLicense": "LGPL-3.0"
+      }
+    },
+    {
+      "name": "easytier-ffi",
+      "version": "0.1.0",
+      "declaredLicense": null,
+      "declaredLicenseFile": null,
+      "disposition": "repository-license-observed; package manifest has no license declaration",
+      "evidence": {
+        "path": "EasyTier-Core/LICENSE",
+        "sha256": "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059",
+        "observedLicense": "LGPL-3.0"
+      }
+    },
+    {
+      "name": "encoding-index-japanese",
+      "version": "1.20141219.5",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding-index-japanese-1.20141219.5__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "45e1c40e2318710cacd0ae1af34bbd53621fe8b06539aec599a4e4bce1903c2f"
+      }
+    },
+    {
+      "name": "encoding-index-korean",
+      "version": "1.20141219.5",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding-index-korean-1.20141219.5__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "1ac9a14f374f4dcb7f512ecec69b8720c03af59574ba29e4d34600c823b25517"
+      }
+    },
+    {
+      "name": "encoding-index-simpchinese",
+      "version": "1.20141219.5",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding-index-simpchinese-1.20141219.5__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "70d6d7b5eba76d4ccdaefee58699896db3b164c49fa20855d39ac5d857946c78"
+      }
+    },
+    {
+      "name": "encoding-index-singlebyte",
+      "version": "1.20141219.5",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding-index-singlebyte-1.20141219.5__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "b66ce596afafb39d2fd0c498f575c403253e06446292490b80452b27cec3b79a"
+      }
+    },
+    {
+      "name": "encoding-index-tradchinese",
+      "version": "1.20141219.5",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding-index-tradchinese-1.20141219.5__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "c3639874478ba4ed158dd5b14dfdf74638913df87f998660c9ee91b33fc7a1c1"
+      }
+    },
+    {
+      "name": "encoding-utils",
+      "version": "0.1.0",
+      "declaredLicense": "MIT",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "a632079"
+      ],
+      "declaredRepository": "https://github.com/greenhat616/encoding-utils",
+      "disposition": "metadata-only; no package-specific notice text found in pinned sources"
+    },
+    {
+      "name": "encoding_index_tests",
+      "version": "0.1.4",
+      "declaredLicense": "CC0-1.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Kang Seonghoon <public+rust@mearie.org>"
+      ],
+      "declaredRepository": null,
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/encoding_index_tests-0.1.4__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "c566a056505af151e11a781d56f63a989e9ad48904f74d35649a86e817c91416"
+      }
+    },
+    {
+      "name": "rustls-platform-verifier-android",
+      "version": "0.1.1",
+      "declaredLicense": "MIT OR Apache-2.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [],
+      "declaredRepository": "https://github.com/rustls/rustls-platform-verifier",
+      "disposition": "metadata-only; no package-specific notice text found in pinned sources"
+    },
+    {
+      "name": "seahash",
+      "version": "4.1.0",
+      "declaredLicense": "MIT",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "ticki <ticki@users.noreply.github.com>",
+        "Tom Almeida <tom@tommoa.me>"
+      ],
+      "declaredRepository": "https://gitlab.redox-os.org/redox-os/seahash",
+      "disposition": "metadata-only; no package-specific notice text found in pinned sources"
+    },
+    {
+      "name": "tun-easytier",
+      "version": "1.1.1",
+      "declaredLicense": "WTFPL",
+      "declaredLicenseFile": null,
+      "disposition": "metadata-only; pinned Git repository has no separate license/notice file"
+    },
+    {
+      "name": "valuable",
+      "version": "0.1.0",
+      "declaredLicense": "MIT",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [],
+      "declaredRepository": "https://github.com/tokio-rs/valuable",
+      "disposition": "metadata-only; no package-specific notice text found in pinned sources"
+    },
+    {
+      "name": "winapi-i686-pc-windows-gnu",
+      "version": "0.4.0",
+      "declaredLicense": "MIT/Apache-2.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Peter Atashian <retep998@gmail.com>"
+      ],
+      "declaredRepository": "https://github.com/retep998/winapi-rs",
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/winapi-i686-pc-windows-gnu-0.4.0__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "27647aa0b11446eea3e59dc4ddd95c651ca38e78b3de594239bff51c5865def4"
+      }
+    },
+    {
+      "name": "winapi-x86_64-pc-windows-gnu",
+      "version": "0.4.0",
+      "declaredLicense": "MIT/Apache-2.0",
+      "declaredLicenseFile": null,
+      "declaredAuthors": [
+        "Peter Atashian <retep998@gmail.com>"
+      ],
+      "declaredRepository": "https://github.com/retep998/winapi-rs",
+      "disposition": "source-header-notices-preserved; canonical license text supplied separately",
+      "evidence": {
+        "path": "licenses/native/winapi-x86_64-pc-windows-gnu-0.4.0__SOURCE-HEADERS.txt",
+        "upstreamPath": "Original leading source comments from checksum-verified crate",
+        "sha256": "6cdc896ad04d71e7e2f31a207999aaedc26e21317b2035448d200f0a6890b686"
+      }
+    }
+  ],
+  "unresolvedPackageSpecificNoticeTexts": [
+    "encoding-utils",
+    "rustls-platform-verifier-android",
+    "seahash",
+    "tun-easytier",
+    "valuable"
+  ],
+  "limitation": "Collection and explicit dispositions do not prove exact binary membership, reproducibility, or exhaustive distribution obligations"
+}

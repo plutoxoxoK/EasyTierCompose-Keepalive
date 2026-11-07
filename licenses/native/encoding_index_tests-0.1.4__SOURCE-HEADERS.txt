@@ -1,0 +1,8 @@
+Upstream file: encoding_index_tests-0.1.4/index_tests.rs
+// This is a part of rust-encoding.
+// Copyright (c) 2013-2015, Kang Seonghoon.
+// See README.md and LICENSE.txt for details.
+
+//! Macros and utilities for testing indices.
+
+/// Makes a common test suite for single-byte indices.

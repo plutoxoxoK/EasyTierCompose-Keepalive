@@ -1,0 +1,12 @@
+{
+  "com.github.topjohnwu.libsu:core:6.0.0": {
+    "declaredLicenses": [{"name": "Apache License, Version 2.0", "url": "https://github.com/topjohnwu/libsu/blob/6.0.0/LICENSE"}],
+    "licenseText": "licenses/libsu-Apache-2.0.txt",
+    "reason": "JitPack POM omits license metadata; exact upstream 6.0.0 source LICENSE was checked."
+  },
+  "com.github.topjohnwu.libsu:service:6.0.0": {
+    "declaredLicenses": [{"name": "Apache License, Version 2.0", "url": "https://github.com/topjohnwu/libsu/blob/6.0.0/LICENSE"}],
+    "licenseText": "licenses/libsu-Apache-2.0.txt",
+    "reason": "JitPack POM omits license metadata; exact upstream 6.0.0 source LICENSE was checked."
+  }
+}

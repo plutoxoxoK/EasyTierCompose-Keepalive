@@ -1,0 +1,12 @@
+<resources>
+    <string name="no_tun_channel">无 TUN 连接</string>
+    <string name="no_tun_title">EasyTier 保活候选</string>
+    <string name="no_tun_starting">正在启动无 TUN 核心…</string>
+    <string name="no_tun_running">无 TUN 核心运行中 · 网络可达性未经验证</string>
+    <string name="no_tun_stop">停止</string>
+    <string name="no_tun_retry_stop">重试停止</string>
+    <string name="no_tun_only">此候选仅支持无 TUN。请选择或导入无 TUN 配置。</string>
+    <string name="no_tun_service_failed">无 TUN 启动失败。请启用应用通知与无 TUN 通知渠道后重试，并检查配置及 SOCKS 端口是否被另一实例占用。</string>
+    <string name="no_tun_service_lost">前台服务已停止，核心已释放；请明确重新连接。</string>
+    <string name="no_tun_stop_failed">无法确认核心已停止。启动另一实例前请检查候选进程。</string>
+</resources>
