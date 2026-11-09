@@ -1,5 +1,7 @@
 # 1.0.10-keepalive.1 候选交付
 
+2026-11-09 更新：GitHub 账号已由 `plutoxoxoK` 更名为 `Axlyro`，当前仓库地址为 [Axlyro/EasyTierCompose-Keepalive](https://github.com/Axlyro/EasyTierCompose-Keepalive)。该候选及 `v1.0.10-keepalive.1` 实验性预发布已于 2026-11-07 公开，附件、摘要和构建产物未变。下方 2026-11-07 的交付记录及“没有执行公开发布”“仍需单独确认”等表述保留为当时状态。
+
 2026-11-07（香港时间）。本地可审阅材料已准备完成；本任务没有执行手机安装或公开发布。使用者随后反馈长时间保活及锁屏成功，具体版本/时长/网络未独立核验，见 [设备反馈](DEVICE-FEEDBACK.md)。真实低内存恢复与完整设备矩阵仍待验。
 
 ## 分发文件

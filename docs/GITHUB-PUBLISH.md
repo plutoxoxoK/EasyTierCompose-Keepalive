@@ -1,5 +1,9 @@
 # GitHub 发布预案
 
+## 2026-11-09 身份与发布状态更新
+
+GitHub 账号已由 `plutoxoxoK` 更名为 `Axlyro`；当前仓库地址为 [Axlyro/EasyTierCompose-Keepalive](https://github.com/Axlyro/EasyTierCompose-Keepalive)。该仓库与 `v1.0.10-keepalive.1` 实验性预发布已于 2026-11-07 公开，现有附件与校验和未变。下方 2026-11-07 的本地准备计划及“尚未建仓、上传、推送或发布”的表述保留为当时的历史状态，其中旧账号路径不再代表当前目标。
+
 2026-11-07。仓库名已由使用者选择：`EasyTierCompose-Keepalive`；改名完成后已重新回读 GitHub 身份，账号为 `plutoxoxoK`。目标为 `plutoxoxoK/EasyTierCompose-Keepalive`。当前只做本地准备，没有建仓、上传、推送或发布。
 
 | 项目 | 准备值 |

@@ -1,4 +1,11 @@
-# 1.0.10-keepalive.1 — 2026-11-06
+# Changelog
+
+## 2026-11-09 — attribution update
+
+- Update the fork maintainer and first-party copyright name from plutoxoxo to Axlyro after the GitHub account rename. Current project links use https://github.com/Axlyro.
+- No runtime changes. The v1.0.10-keepalive.1 tag, release assets, checksums and build outputs remain unchanged; upstream and third-party notices are unaffected.
+
+## 1.0.10-keepalive.1 — 2026-11-06
 
 Unofficial experimental no-TUN-only candidate based on EasyTierCompose v1.0.10.
 

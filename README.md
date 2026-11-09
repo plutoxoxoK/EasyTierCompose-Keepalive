@@ -2,7 +2,7 @@
 
 基于 [originalFactor/EasyTierCompose v1.0.10](https://github.com/originalFactor/EasyTierCompose/tree/d3c013b9db714271cebc20e5df0499e5fbb79a7a) 的非官方实验候选，给无 TUN 模式补齐普通 Android 前台服务。保留上游 GPL-3.0 许可证与归属；不代表上游发布或背书。
 
-保活分支维护者：[plutoxoxo](https://github.com/plutoxoxoK)。本分支修改版权：Copyright (c) 2026 plutoxoxo；上游与第三方归属见 [NOTICE.md](NOTICE.md)。
+保活分支维护者：[Axlyro](https://github.com/Axlyro)。本分支修改版权：Copyright (c) 2026 Axlyro；上游与第三方归属见 [NOTICE.md](NOTICE.md)。
 
 包名 `cc.ptoe.easytier.compose.keepalive`，版本 `1.0.10-keepalive.1` / `1001001`。可与原版共存，应用数据独立。此分支只支持 **NO_TUN**，Manifest 不声明 VPN/Root 服务，不请求 VPN 同意，不替换其他 VPN。默认构建 ARM64；原生 EasyTier JNI 库保持上游字节不变。已有使用者反馈长时间保活和锁屏成功，具体版本/时长/网络没有独立回读，见 [设备反馈](docs/DEVICE-FEEDBACK.md)；未宣称解决所有 MIUI 策略或完成全部设备矩阵。
 
@@ -26,4 +26,4 @@
 
 2026-11-07 本地交付检查已完成：[候选交付清单](docs/CANDIDATE-DELIVERY.md)。APK/源码 ZIP、精确提交、签名和文件摘要在独立 dist 目录中提供；固定原生源码排除两个上游 GUI 签名文件并明确记录。设备反馈与本地模型检查分别记录。
 
-2026-11-07 已公开发布：[下载 v1.0.10-keepalive.1 实验性预发布](https://github.com/plutoxoxoK/EasyTierCompose-Keepalive/releases/tag/v1.0.10-keepalive.1)。六个附件已下载回读核对 SHA-256；APK 使用调试签名。发布前的准备记录见 [发布预案](docs/GITHUB-PUBLISH.md)。原生依赖声明、notice 来源与缺项说明见 [原生归属采集](docs/NATIVE-LICENSE-REVIEW.md)。
+2026-11-07 已公开发布：[下载 v1.0.10-keepalive.1 实验性预发布](https://github.com/Axlyro/EasyTierCompose-Keepalive/releases/tag/v1.0.10-keepalive.1)。六个附件已下载回读核对 SHA-256；APK 使用调试签名。发布前的准备记录见 [发布预案](docs/GITHUB-PUBLISH.md)。原生依赖声明、notice 来源与缺项说明见 [原生归属采集](docs/NATIVE-LICENSE-REVIEW.md)。
